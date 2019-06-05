@@ -1,0 +1,15 @@
+.component-button-grid {
+    background-color: #dfe0eb;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1 0 auto;
+  }
+  
+  .component-button-grid > div {
+    width: 100%;
+    margin-bottom: 1px;
+    flex: 1 0 auto;
+    display: flex;
+  }
+  
