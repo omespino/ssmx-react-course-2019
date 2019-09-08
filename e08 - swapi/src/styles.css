@@ -1,0 +1,68 @@
+.category-button {
+    height: 60px !important;
+    width: 180px !important;
+    margin-top: 24px !important;
+    margin-right: 8px !important;
+    margin-left: 8px !important;
+    background: #E3E2DF !important;
+    text-transform: uppercase !important;
+    border-radius: 8px !important;
+    color: #1a1a1a !important;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #1a1a1a;
+}
+
+.item-button {
+    cursor: pointer;
+    list-style: none;
+    text-align: center !important;
+    vertical-align: middle !important;
+    line-height: 48px; 
+    height: 48px !important;
+    width: 280px !important;
+    margin-top: 8px !important;
+    background: #E3E2DF !important;
+    text-transform: uppercase !important;
+    border-radius: 8px !important;
+    color: #1a1a1a !important;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #1a1a1a;
+    margin-left: 16px !important;
+}
+
+h1, h2 {
+    color: #1a1a1a !important;
+    margin-top: 24px !important;
+    margin-bottom: 24px !important;
+    margin-left: 16px !important;
+    text-transform: uppercase !important;
+
+}
+
+h2 {
+    font-size: 16px !important
+}
+
+a {
+    margin-left: 16px !important;
+    font-size: 18px !important;
+    text-decoration: underline;
+    color: #415a71 !important;
+}
+
+pre {
+    margin-left: 16px !important;
+    background: #E3E2DF !important;
+    border-radius: 8px !important;
+    color: #1a1a1a !important;
+}
+
+code {
+    margin: 8px !important;
+}
+
+.search-bar {
+    margin-left: 16px !important;
+}
